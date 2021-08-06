@@ -16,3 +16,16 @@ derived from the following makefile tutorial:
 # Exercize_11: Static pattern rules automatic
 # Exercize_12: Static pattern rules and filter/funstions
 # Exercize_13: 
+
+# stuck so trying to find more insight into makefiles via:
+# https://www.cmcrossroads.com/article/makefile-optimization-shell-and-go-together
+# Exercize_12.1: difference between = & :=
+
+# which lead us into reaserching Makefiles:
+# https://www.oreilly.com/openbook/make3/book/ch12.pdf
+# some usefull flags for debugging Makefiles
+# --justprint (-n), --print-data-base (-p), and --warn-undefined-variables
+# --debug, --debug=baisc,verbose,implicit,jobs,all,makefile
+# One of the most important aspects of programming robust makefiles is to check the
+# return status of commands.
+

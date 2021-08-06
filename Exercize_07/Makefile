@@ -14,4 +14,4 @@ $(SRC):
 fclean:
 	rm -f *.c
 
-.PHONY: printfclean
+.PHONY: print fclean
